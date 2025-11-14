@@ -1,0 +1,6 @@
+{
+  "instagram": {
+    "access_token": "YOUR_ACCESS_TOKEN_HERE"
+  },
+  "rate_limit_delay_ms": 500
+}
